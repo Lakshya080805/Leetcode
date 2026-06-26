@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Lakshya080805/Leetcode/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/Lakshya080805/Leetcode/tree/master/0189-rotate-array) |
 | [0912-sort-an-array](https://github.com/Lakshya080805/Leetcode/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Lakshya080805/Leetcode/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/Lakshya080805/Leetcode/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Lakshya080805/Leetcode/tree/master/0912-sort-an-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Lakshya080805/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
