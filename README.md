@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Lakshya080805/Leetcode/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/Lakshya080805/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Lakshya080805/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Lakshya080805/Leetcode/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/Lakshya080805/Leetcode/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/Lakshya080805/Leetcode/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/Lakshya080805/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Lakshya080805/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lakshya080805/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Lakshya080805/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/Lakshya080805/Leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Lakshya080805/Leetcode/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/Lakshya080805/Leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Lakshya080805/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lakshya080805/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Lakshya080805/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/Lakshya080805/Leetcode/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/Lakshya080805/Leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Lakshya080805/Leetcode/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/Lakshya080805/Leetcode/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/Lakshya080805/Leetcode/tree/master/0912-sort-an-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Lakshya080805/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Math
@@ -126,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Lakshya080805/Leetcode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lakshya080805/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Lakshya080805/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Lakshya080805/Leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Lakshya080805/Leetcode/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/Lakshya080805/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Lakshya080805/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -193,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Lakshya080805/Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Lakshya080805/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Lakshya080805/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/Lakshya080805/Leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Lakshya080805/Leetcode/tree/master/0846-hand-of-straights) |
 ## Linked List
 |  |
