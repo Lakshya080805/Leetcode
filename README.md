@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Lakshya080805/Leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Lakshya080805/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Lakshya080805/Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Lakshya080805/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Lakshya080805/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Lakshya080805/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Lakshya080805/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -166,11 +167,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Lakshya080805/Leetcode/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Lakshya080805/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/Lakshya080805/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Lakshya080805/Leetcode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Lakshya080805/Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Lakshya080805/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Linked List
