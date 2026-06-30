@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Lakshya080805/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Lakshya080805/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Lakshya080805/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/Lakshya080805/Leetcode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Lakshya080805/Leetcode/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/Lakshya080805/Leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Lakshya080805/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Lakshya080805/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Lakshya080805/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/Lakshya080805/Leetcode/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lakshya080805/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Lakshya080805/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Lakshya080805/Leetcode/tree/master/0621-task-scheduler) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Lakshya080805/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Lakshya080805/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Lakshya080805/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0355-design-twitter](https://github.com/Lakshya080805/Leetcode/tree/master/0355-design-twitter) |
 ## Recursion
 |  |
 | ------- |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Lakshya080805/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Lakshya080805/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Lakshya080805/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0355-design-twitter](https://github.com/Lakshya080805/Leetcode/tree/master/0355-design-twitter) |
 | [0901-online-stock-span](https://github.com/Lakshya080805/Leetcode/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
