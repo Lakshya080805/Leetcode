@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Lakshya080805/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Lakshya080805/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Lakshya080805/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/Lakshya080805/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Lakshya080805/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Lakshya080805/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Lakshya080805/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Lakshya080805/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Lakshya080805/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Lakshya080805/Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Lakshya080805/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Simulation
 |  |
 | ------- |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Lakshya080805/Leetcode/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Lakshya080805/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Lakshya080805/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Lakshya080805/Leetcode/tree/master/1020-number-of-enclaves) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Lakshya080805/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Lakshya080805/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Lakshya080805/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Lakshya080805/Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Lakshya080805/Leetcode/tree/master/1020-number-of-enclaves) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Lakshya080805/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Backtracking
 |  |
@@ -497,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Lakshya080805/Leetcode/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Lakshya080805/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
