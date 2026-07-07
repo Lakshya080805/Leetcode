@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Lakshya080805/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Lakshya080805/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Lakshya080805/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1631-path-with-minimum-effort](https://github.com/Lakshya080805/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2104-sum-of-subarray-ranges](https://github.com/Lakshya080805/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Lakshya080805/Leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lakshya080805/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/Lakshya080805/Leetcode/tree/master/0912-sort-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/Lakshya080805/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Merge Sort
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Lakshya080805/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Lakshya080805/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Lakshya080805/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Lakshya080805/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Simulation
 |  |
 | ------- |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Lakshya080805/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Lakshya080805/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Lakshya080805/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1631-path-with-minimum-effort](https://github.com/Lakshya080805/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -475,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Lakshya080805/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Lakshya080805/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Lakshya080805/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/Lakshya080805/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Lakshya080805/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
@@ -500,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Lakshya080805/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Lakshya080805/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Lakshya080805/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Lakshya080805/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Lakshya080805/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Backtracking
 |  |
@@ -519,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Lakshya080805/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Lakshya080805/Leetcode/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/Lakshya080805/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/Lakshya080805/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
